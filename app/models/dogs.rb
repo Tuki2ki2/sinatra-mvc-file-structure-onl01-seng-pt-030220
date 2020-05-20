@@ -1,3 +1,4 @@
+
 class dog
 attr_accessor :name,:age, :breed
 
