@@ -1,4 +1,3 @@
-class Model
 
   class dog
   attr_accessor :name,:age, :breed
@@ -16,5 +15,3 @@ class Model
   end
 
   end
-
-end
